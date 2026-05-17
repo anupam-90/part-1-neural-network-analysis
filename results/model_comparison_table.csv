@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Activation,Epochs,Batch Size,Test Accuracy
+Baseline,1,ReLU,50,32,0.9800000190734863
+More Layers,2,ReLU,50,32,0.9750000238418579
+Tanh + Smaller Batch,1,Tanh,100,16,0.9800000190734863
