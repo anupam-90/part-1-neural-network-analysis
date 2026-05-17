@@ -1,0 +1,5 @@
+Experiment,Hidden Layers,Neurons,Activation,LR,Epochs,Batch Size,Train Acc,Test Acc
+Base Model,1,32,relu,0.001,20,32,0.985,0.9825
+Exp 1: Deeper Network,3,64,relu,0.001,20,32,1.0,0.975
+Exp 2: Lower Learning Rate,1,32,relu,0.0001,50,32,0.985,0.9825
+Exp 3: Tanh Activation,2,32,tanh,0.001,20,16,0.9862,0.9825
