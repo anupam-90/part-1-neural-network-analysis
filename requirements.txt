@@ -1,0 +1,8 @@
+Please use Virtual environment with each of the part to avoid library conflicts.
+
+pandas
+numpy
+scikit-learn
+tensorflow OR keras
+matplotlib
+seaborn
